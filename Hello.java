@@ -8,5 +8,6 @@ class Hello {
         Hello hello = new Hello();
         hello.greet("World");
         hello.greet("Anushka")
+        hello.greet("Hole")
     }
 }
