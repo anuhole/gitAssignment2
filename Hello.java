@@ -9,5 +9,6 @@ class Hello {
         hello.greet("World");
         hello.greet("Anushka")
         hello.greet("Hole")
+        hello.greet("good afternoon!")
     }
 }
